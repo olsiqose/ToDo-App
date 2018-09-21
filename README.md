@@ -1,2 +1,2 @@
 <h1>A simple to-do application </h1>
-Developed with MERN stack and GraphQL
+Developed using Node.js, ReactJS Mongoo (MERN stack) and GraphQL
